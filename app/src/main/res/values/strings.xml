@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Together practice</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="backgroundcolor">backgroundColor</string>
+    <string name="fontweight_bold">FontWeight.Bold</string>
+</resources>
